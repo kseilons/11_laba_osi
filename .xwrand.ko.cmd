@@ -1,0 +1,1 @@
+cmd_/home/vboxuser/Desktop/11_lab/xwrand.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/Desktop/11_lab/xwrand.ko /home/vboxuser/Desktop/11_lab/xwrand.o /home/vboxuser/Desktop/11_lab/xwrand.mod.o;  true
